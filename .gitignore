@@ -1,0 +1,11 @@
+# Model dosyaları
+*.h5
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.ckpt
+*.joblib
+*.pkl
+models/
+checkpoints/

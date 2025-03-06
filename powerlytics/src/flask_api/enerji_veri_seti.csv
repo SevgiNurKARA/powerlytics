@@ -1,0 +1,1153 @@
+Firma Adı,Makine Türü,Çekilen Enerji (kWh),Kullanılan Enerji (kWh),Çalışma Durumu,Saat Dilimi,Verimlilik (%),Öneri
+Firma A,Pompa,32.849891249674556,25.880862982679048,1,00:00,78.78523184741275,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,39.311348117101836,37.40398489223584,1,00:15,95.1480594886131,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,Pompa,14.373311324160175,7.596179921003941,1,00:30,52.849199114162936,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,0.0,0.0,0,00:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,49.75397021832366,42.42303563150028,1,01:00,85.26562894447466,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,36.40965946060089,21.834891486480117,1,01:15,59.97005138185316,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,0.0,0.0,0,01:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,49.89979467443931,48.76624383446607,1,01:45,97.72834568284527,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,Pompa,0.0,0.0,0,02:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,7.917426910446514,5.962984908821862,1,02:15,75.314682109084,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,28.51089479496979,16.592996075432733,1,02:30,58.198791005185335,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,14.347198615615786,8.184453664323694,1,02:45,57.04565667206675,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,6.210688837109521,2.738439788003879,1,03:00,44.09236817084464,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,23.18775528375049,19.944435537437172,1,03:15,86.01279120542482,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,20.424419742927313,11.788761586626805,1,03:30,57.71895473656766,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,46.19083711192478,31.19671856289074,1,03:45,67.5387598784974,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,0.0,0.0,0,04:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,10.210444799837337,9.555405267029442,1,04:15,93.58461315203105,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,Pompa,0.0,0.0,0,04:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,49.450047853401244,45.897127478883135,1,04:45,92.81513258581461,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,Pompa,25.120089461858033,16.933421678313362,1,05:00,67.40987807398065,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,28.253810960469615,18.98007442614083,1,05:15,67.17704189603369,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,12.545380335637647,7.028462290532768,1,05:30,56.02430617880132,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,30.762604734853305,16.00034225364578,1,05:45,52.012312973997844,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,48.368331632440835,33.692405076157236,1,06:00,69.65798475786087,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,24.09093224125125,12.088003726286932,1,06:15,50.17657102363382,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,8.519965806840325,7.796999207935911,1,06:30,91.5144424837483,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,Pompa,9.692419464478265,7.876274383316337,1,06:45,81.2622112794652,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,0.0,0.0,0,07:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,17.501141084548394,14.198164015267041,1,07:15,81.12707592422346,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,40.90041852437321,19.398449351073374,1,07:30,47.4284861889947,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,11.602942600214188,9.276412181765375,1,07:45,79.94878972851365,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,16.260234093800918,14.434337127492212,1,08:00,88.77078302947179,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,33.887913126742006,19.04026949548256,1,08:15,56.18601955296353,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,16.135536632665826,13.521690009973304,1,08:30,83.80068365745655,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,0.0,0.0,0,08:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,6.036076253401306,3.4422782886684797,1,09:00,57.028409585262764,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,49.06162645656198,19.741549111244343,1,09:15,40.238268759237016,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,0.0,0.0,0,09:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,25.4277756390596,20.40026292634531,1,09:45,80.22826383212407,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,44.01591805304995,18.978844551275238,1,10:00,43.11813859795242,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,39.893021377880544,26.410880204470363,1,10:15,66.2042615280937,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,23.202098842199995,16.448784272775104,1,10:30,70.89351866244981,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,0.0,0.0,0,10:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,25.787668357737918,13.297793937801876,1,11:00,51.566484233196306,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,29.793890164764843,29.04473591313226,1,11:15,97.48554402432967,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,Pompa,46.632256033429854,20.570367648830512,1,11:30,44.111886060335515,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,15.5312065923965,14.463296130361146,1,11:45,93.12409853231773,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,Pompa,29.07580122347036,21.470956936834725,1,12:00,73.84476448925194,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,34.33970072447505,25.45301647058726,1,12:15,74.12125304996047,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,12.657513222574611,10.458246839426614,1,12:30,82.62481464980328,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,7.07507909953655,4.773413445605716,1,12:45,67.46798697866707,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,46.604134120457,30.035425087656876,1,13:00,64.44798439989201,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,24.186863487600707,10.771798452442544,1,13:15,44.53573923698152,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,42.47634170177723,18.737343645756336,1,13:30,44.112423280963384,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,36.2393368105824,28.815167204295744,1,13:45,79.51350587597206,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,48.76329842774897,25.45411783740862,1,14:00,52.199335685060724,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,10.765494399190965,5.87271912666365,1,14:15,54.55131839653355,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,10.645068003554325,6.366729148712733,1,14:30,59.80919188667391,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,0.0,0.0,0,14:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,0.0,0.0,0,15:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,24.290859591162697,17.857701823468087,1,15:15,73.51613785608859,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,16.229236435676953,8.127718222686847,1,15:30,50.08071855321285,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,47.14974078753668,34.74526658509683,1,15:45,73.69132047122773,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,9.934921742783219,4.551739271297455,1,16:00,45.815552342964985,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,12.42958379938316,8.759063230663216,1,16:15,70.46948129588941,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,0.0,0.0,0,16:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,15.14293452956246,12.986957975933194,1,16:45,85.76249174543872,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,32.31443571662611,26.668526503670765,1,17:00,82.52821351279093,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,38.728771647599444,16.348259870673505,1,17:15,42.21218276538557,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,32.748940343641735,18.648011656115433,1,17:30,56.94233602809068,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,11.634114366887346,10.479780983489702,1,17:45,90.078029603327,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,Pompa,0.0,0.0,0,18:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,49.22684925168339,26.00189438338879,1,18:15,52.82055378041408,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,10.96012934864424,9.234850127681899,1,18:30,84.25858704691512,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,48.97514417242533,35.326567769666816,1,18:45,72.13162588208749,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,25.921545568771418,21.89791589813006,1,19:00,84.47766295429248,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,16.379002999105523,8.140583788781509,1,19:15,49.70133889850363,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,0.0,0.0,0,19:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,23.463788782752335,22.1473472424499,1,19:45,94.389475832351,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,Pompa,0.0,0.0,0,20:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,19.452242586095153,10.157718892228546,1,20:15,52.21875497013123,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,23.705150081626986,16.207404691110867,1,20:30,68.37081661707194,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,42.95380459649665,23.78416948888813,1,20:45,55.37150832694338,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,19.799287259235797,12.825703206566057,1,21:00,64.77861065722573,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,17.150601951287047,9.36150434171226,1,21:15,54.584115288208515,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,26.555578224488634,20.75772876328003,1,21:30,78.16711271659666,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,0.0,0.0,0,21:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,36.50870175840153,31.134277701573577,1,22:00,85.2790600652044,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,0.0,0.0,0,22:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,0.0,0.0,0,22:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,9.186323676501093,6.569985747172719,1,22:45,71.51920592542315,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma A,Pompa,34.054977882268076,20.227707632756665,1,23:00,59.397212656211806,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma A,Pompa,35.288796142024935,15.851884464356385,1,23:15,44.9204455730316,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,0.0,0.0,0,23:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,Pompa,0.0,0.0,0,23:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma A,LPG Kompresörü,45.628189101494826,29.245738115290695,1,00:00,64.09576775058244,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,47.101970232606426,30.721580087825767,1,00:15,65.22355633132028,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,20.909226926647797,11.826766993439831,1,00:30,56.56243071506001,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,33.696242985453395,26.85638775668016,1,00:45,79.70143071521063,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,28.20321077851408,26.67438963465976,1,01:00,94.57926561673958,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,5.743113730566986,5.183710917583104,1,01:15,90.25959019396514,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,0.0,0.0,0,01:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,17.88714045001811,11.215258563251007,1,01:45,62.70012020417525,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,0.0,0.0,0,02:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,39.40849332335364,26.14329044956761,1,02:15,66.33922853902914,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,36.04130239305381,23.45859431112156,1,02:30,65.08808714871164,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,0.0,0.0,0,02:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,29.995889488385174,19.03033930427476,1,03:00,63.44315714205966,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,44.103177995335024,20.695588332191992,1,03:15,46.925390125811454,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,14.251862504564238,6.831613745665236,1,03:30,47.93488390361171,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,49.33163986368052,39.28681634163116,1,03:45,79.63817227684605,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,45.266918867670654,39.77910156556545,1,04:00,87.87675980742623,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,41.29766011803763,41.08686747400175,1,04:15,99.48957727039888,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,41.313443319831755,19.52586795017113,1,04:30,47.262746411645864,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,9.149281982504089,8.987788247137573,1,04:45,98.23490263306634,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,0.0,0.0,0,05:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,5.749099224870331,4.181311971420281,1,05:15,72.7298626771325,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,24.281154818376578,20.88543518146841,1,05:30,86.01499944171435,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,45.716144477144596,19.903972124337088,1,05:45,43.53816874099677,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,19.38850425943454,18.37553737686281,1,06:00,94.77542532927048,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,38.99042030645127,27.056263552562864,1,06:15,69.39207974653763,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,36.247988208429824,26.7816583542982,1,06:30,73.88453726121513,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,21.337308735068312,12.269918491407568,1,06:45,57.50452713486636,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,22.16250089174261,10.470260653081898,1,07:00,47.24313697369302,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,0.0,0.0,0,07:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,29.22506527115976,18.113570806845882,1,07:30,61.97957348865509,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,0.0,0.0,0,07:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,39.93563261036551,19.973585619266412,1,08:00,50.01444653234856,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,11.153750552904054,6.542593596218813,1,08:15,58.65823845697666,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,0.0,0.0,0,08:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,0.0,0.0,0,08:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,0.0,0.0,0,09:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,34.38589929075434,28.71222029663815,1,09:15,83.49998368185263,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,16.669276437406232,11.171975891739978,1,09:30,67.02136072727075,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,43.66316736175245,27.171390316360206,1,09:45,62.22954485010971,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,0.0,0.0,0,10:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,14.901953303027113,7.497675579483063,1,10:15,50.313374542383116,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,34.200569488831746,32.64462219347856,1,10:30,95.45052226144573,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,27.83205928178556,22.727919293990073,1,10:45,81.66093304085534,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,17.03821673985258,12.735933387407385,1,11:00,74.74921572994135,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,37.95407024041946,37.40286144856511,1,11:15,98.54769517903422,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,0.0,0.0,0,11:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,9.36932851576156,7.446807971643767,1,11:45,79.48070087537617,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,30.6305679715388,24.403126155747486,1,12:00,79.66919248256283,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,27.25338569953636,25.506193258993505,1,12:15,93.58908115195177,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,22.506546999504632,18.945085729374078,1,12:30,84.17588770854569,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,29.22208984274396,27.253467278569175,1,12:45,93.26323827361853,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,0.0,0.0,0,13:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,0.0,0.0,0,13:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,0.0,0.0,0,13:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,33.68075640246795,13.801452203993835,1,13:45,40.977263215450044,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,49.06529723013499,29.875740664791294,1,14:00,60.88975783569119,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,29.319709530107378,26.372618074072264,1,14:15,89.94842887850287,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,0.0,0.0,0,14:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,0.0,0.0,0,14:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,41.695957007565596,26.12466780869235,1,15:00,62.65515815826488,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,9.188469865596083,5.892047604538352,1,15:15,64.12436119097092,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,40.992622893420936,24.589923009017387,1,15:30,59.98621525865796,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,12.824808714365432,5.242052358018712,1,15:45,40.87431223942499,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,17.67586094012828,15.362084028506857,1,16:00,86.90996201283403,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,20.224562511216746,19.91305380931295,1,16:15,98.45975060409326,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,43.34331514271123,38.988465293327465,1,16:30,89.95266090042932,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,12.70289696084031,8.118502023686053,1,16:45,63.91063431210424,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,30.844566022607335,21.852555948804383,1,17:00,70.84734449752895,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,40.82760226109008,20.211341660352588,1,17:15,49.504111289960804,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,0.0,0.0,0,17:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,31.935055487267714,31.419559348406658,1,17:45,98.3857985182879,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,36.260703606551246,19.990433155057648,1,18:00,55.129744232116785,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,25.632910495846435,18.461764474692053,1,18:15,72.0236762722813,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,49.29829882907278,41.509800856582146,1,18:30,84.20128451187547,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,24.621299084353318,19.893277814882477,1,18:45,80.79702759276634,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,12.240238594668591,10.643563379907443,1,19:00,86.95552212963722,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,0.0,0.0,0,19:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,7.965801518520884,4.014031533675624,1,19:30,50.3908052986608,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,0.0,0.0,0,19:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,48.49064126090738,23.365030759600632,1,20:00,48.184619035832924,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,0.0,0.0,0,20:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,21.163641239754156,19.261237687508363,1,20:30,91.01098184998389,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,24.810576687481397,23.08107631397195,1,20:45,93.02918108154213,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma A,LPG Kompresörü,29.266413558728555,25.30898806863958,1,21:00,86.47792807906696,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,13.784543312518052,10.331595641927738,1,21:15,74.95058347377665,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,47.672565004662545,26.177867182402117,1,21:30,54.91180761899812,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,LPG Kompresörü,36.463489111614784,28.4096874887605,1,21:45,77.91269618164738,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,40.03618206623524,28.868161709078876,1,22:00,72.10518141145386,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,47.00216723887333,40.06661137692743,1,22:15,85.24417857862134,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,25.991568672566693,19.969723273752795,1,22:30,76.83154304892042,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,22.043945220229244,19.301013033797584,1,22:45,87.55698147936545,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,21.486046012626545,9.274352058305764,1,23:00,43.164535963739326,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma A,LPG Kompresörü,49.62706939801845,38.89791007440949,1,23:15,78.38042936293682,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,20.03522292943047,15.659205845850442,1,23:30,78.15838087255851,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma A,LPG Kompresörü,38.040345742864176,21.52369693610108,1,23:45,56.58123372902997,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma A,Hava Kompresörü,40.57472533604303,30.656868931499954,1,00:00,75.55656551608762,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,24.31061779794603,10.30972766100302,1,00:15,42.408332633463864,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,14.641414609374868,12.495970207791691,1,00:30,85.34674101633969,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,0.0,0.0,0,00:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,20.145477424252363,16.64807473067773,1,01:00,82.63926627341061,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,0.0,0.0,0,01:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,14.87567570868468,9.108260369774134,1,01:30,61.22922109989647,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,0.0,0.0,0,01:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,30.577384187802664,23.459151621077833,1,02:00,76.72059675541409,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,26.61356854915648,21.111038233817652,1,02:15,79.32434237379552,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,28.343190388727844,12.299360743235132,1,02:30,43.394411760105235,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,23.84224883793654,12.152174444043254,1,02:45,50.96907815468879,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,29.224213464265066,27.586692393416783,1,03:00,94.39669754380004,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma A,Hava Kompresörü,48.67552450596771,23.847993322416766,1,03:15,48.99380862242781,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,15.15627238559169,8.408428518621925,1,03:30,55.478209316265634,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,46.827303271580746,26.248444345738676,1,03:45,56.05371762176347,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,16.8724947787174,14.095999594496002,1,04:00,83.54425222449255,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,33.440927522555654,27.75532405654847,1,04:15,82.99806887182693,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,42.43581650296044,22.222552999846876,1,04:30,52.36744531190196,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,42.704107596462826,33.850173826737375,1,04:45,79.26678657380766,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,0.0,0.0,0,05:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,48.0056633345273,20.922883770706804,1,05:15,43.58419885775926,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,0.0,0.0,0,05:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,0.0,0.0,0,05:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,20.825315938444437,16.75490126532202,1,06:00,80.45448777270046,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,45.533803383374256,33.52669017598184,1,06:15,73.6303310613043,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,0.0,0.0,0,06:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,25.79015144114589,11.377125391918042,1,06:45,44.11422483455002,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,0.0,0.0,0,07:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,27.1380882234196,13.620245861649991,1,07:15,50.188671175060904,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,45.81863196114008,42.26539101781126,1,07:30,92.24498682906463,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma A,Hava Kompresörü,0.0,0.0,0,07:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,23.968916409075003,15.61737087268094,1,08:00,65.15676639753293,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,26.631328562378577,16.164940816188082,1,08:15,60.69896504909595,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,45.8835258563339,21.787080771253144,1,08:30,47.483449374554965,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,25.598540430436902,19.904446600284253,1,08:45,77.75617775698524,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,45.04375292608752,40.41984060152367,1,09:00,89.7346201766286,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,0.0,0.0,0,09:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,8.9744658431012,6.359257465588631,1,09:30,70.85945366293954,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,22.217481500038453,9.147718545198787,1,09:45,41.173517102660604,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,0.0,0.0,0,10:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,0.0,0.0,0,10:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,18.585239382195013,8.32987802579415,1,10:30,44.819858676527566,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,24.108757325055763,9.819153206306638,1,10:45,40.72857457527179,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,21.076917867020015,11.157431951070224,1,11:00,52.93673402091086,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,46.05055881325714,21.929383696325527,1,11:15,47.620233633326606,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,0.0,0.0,0,11:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,41.37956643430615,17.723423094644925,1,11:45,42.83134073621211,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,44.45326602894898,42.27713233426554,1,12:00,95.10467083955925,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma A,Hava Kompresörü,40.70446361321025,17.35792792317487,1,12:15,42.64379476441871,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,19.478664631375334,12.335065639430065,1,12:30,63.3260332413204,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,39.8079598701529,19.974926112877863,1,12:45,50.1782210845088,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,9.771513741839016,6.539223052851922,1,13:00,66.92129004386202,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,14.787696558960084,6.410878095006168,1,13:15,43.35278364311392,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,0.0,0.0,0,13:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,6.491260970662381,4.413054196103718,1,13:45,67.98454439050847,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,36.89165559066711,29.35946308776064,1,14:00,79.58293716476098,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,35.68956805418328,23.677528502817204,1,14:15,66.34299542900153,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,11.147039779357996,10.876279345437183,1,14:30,97.57101042716107,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma A,Hava Kompresörü,14.970271062489951,13.535357800806867,1,14:45,90.41491462851027,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma A,Hava Kompresörü,25.120132153759172,19.154820884755193,1,15:00,76.25286669476662,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,26.125398940119098,13.491318455684672,1,15:15,51.640621781920125,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,45.997159003512934,22.915997486618767,1,15:30,49.82046279177505,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,7.307666015149621,6.5292035444217795,1,15:45,89.34731733615082,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,38.99806834408556,27.394737058509644,1,16:00,70.24639481320445,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,27.63796974202715,11.993930132358145,1,16:15,43.39656727433132,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,10.505042813874294,8.94742275312159,1,16:30,85.17264433519954,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,11.248950078653259,9.846312080295911,1,16:45,87.53094298978992,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,6.9837756437966325,3.845655215982207,1,17:00,55.065560695640706,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,30.705003363748258,28.58541404204823,1,17:15,93.09692529067588,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma A,Hava Kompresörü,45.928697863470745,36.06885644856247,1,17:30,78.53228618799953,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,49.865639831841236,42.28553784495219,1,17:45,84.79894770737737,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,8.392674534422866,5.192177336709226,1,18:00,61.86558665432953,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,36.31945765702473,29.0565996289031,1,18:15,80.00284559117891,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,0.0,0.0,0,18:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,17.14135563218223,12.204394875785571,1,18:45,71.19853958850427,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,28.358991806108193,17.539253754664305,1,19:00,61.84724010846732,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,22.10008940227851,17.681331334262744,1,19:15,80.00570048571753,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,6.916435674425923,2.924368892196087,1,19:30,42.28144422725099,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,34.935982018182614,26.92182182637818,1,19:45,77.06044104432668,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,47.442073538426115,19.200435552469667,1,20:00,40.471324544695776,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,0.0,0.0,0,20:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,43.44018920129695,29.09225545275175,1,20:30,66.97083043985262,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,7.676320746886386,6.164124390291559,1,20:45,80.30050584834937,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,21.60666880678834,16.56020127327983,1,21:00,76.64393535794366,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,25.897357513258086,11.686236712363945,1,21:15,45.125209034864675,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,33.379149613459674,14.219766381266817,1,21:30,42.600744913923435,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,15.633728354047474,14.982291377732611,1,21:45,95.83313102567624,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma A,Hava Kompresörü,39.594171050000696,21.206613217938088,1,22:00,53.55993737350315,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,21.205387394584374,21.072200263077164,1,22:15,99.37191842323416,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma A,Hava Kompresörü,24.22105395236892,23.895669647481363,1,22:30,98.6566055072276,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma A,Hava Kompresörü,8.673999504664707,6.5598812281878205,1,22:45,75.62694953648597,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,30.08624410134182,19.889449491484697,1,23:00,66.10811713316401,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma A,Hava Kompresörü,0.0,0.0,0,23:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma A,Hava Kompresörü,20.722994767084487,15.98950277016816,1,23:30,77.15826283740223,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma A,Hava Kompresörü,0.0,0.0,0,23:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Pompa,12.794237156390526,12.402366974382883,1,00:00,96.93713523348353,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,7.316141804515814,6.447694168460542,1,00:15,88.12970470967045,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,5.397327825983592,4.469929213152876,1,00:30,82.81744887968317,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,40.77910143134594,26.268044480308344,1,00:45,64.41545683524235,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,46.806297730975146,22.141491940883885,1,01:00,47.304514593623246,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,26.242150488979004,21.678859055294154,1,01:15,82.61083276844514,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,24.557154182458994,22.19806557572769,1,01:30,90.39347723598858,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,37.279716828905286,25.912255917228133,1,01:45,69.50765220710247,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,23.37977857820995,15.681120125761515,1,02:00,67.07129442353394,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,27.127230623537617,23.998084363108514,1,02:15,88.4649255065719,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,0.0,0.0,0,02:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,37.51600622999853,33.942131659344035,1,02:45,90.47373393440597,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,0.0,0.0,0,03:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,8.744839763428587,5.851480291330366,1,03:15,66.91352214138429,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,29.131814649331883,25.026147691174515,1,03:30,85.90658698203846,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,36.81539020494804,33.230362072990246,1,03:45,90.26214821573191,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,30.03126834502462,21.5329523794125,1,04:00,71.70177473699653,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,41.5756792830236,22.866335013256307,1,04:15,54.99930586243773,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,33.04216387582991,22.04495460964034,1,04:30,66.71764807076106,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,12.47142222586982,5.964014550422946,1,04:45,47.82144684390225,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,24.30845682462761,22.701065967971168,1,05:00,93.38752406928627,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,40.74292163771693,28.034841416597757,1,05:15,68.8091091401876,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,25.75173939654971,21.01540089306407,1,05:30,81.60769480247137,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,37.75389500865535,24.234589157021226,1,05:45,64.19096400905198,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,10.816424693206265,8.478192805158939,1,06:00,78.38258061819673,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,21.726613908577338,10.51892562630341,1,06:15,48.41493327292339,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,0.0,0.0,0,06:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,6.665015241285371,6.577625503956038,1,06:45,98.68882914493562,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,18.971546294053418,8.645787042781429,1,07:00,45.57238987678842,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,31.618142273610314,15.040387104886294,1,07:15,47.568851372522175,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,25.107666489333095,17.04542759522044,1,07:30,67.88933413012369,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,18.215413864901556,7.809035733902585,1,07:45,42.87048206436559,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,23.06610987740514,21.187832866590114,1,08:00,91.85698403069289,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,27.767653154456386,27.57067688553607,1,08:15,99.2906268750022,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,44.42196535677936,36.32460841961431,1,08:30,81.77172740528174,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,27.674674333159363,15.716244736108072,1,08:45,56.78926713611626,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,40.588102803389795,22.080868122468477,1,09:00,54.40231643599846,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,36.93135305717121,23.310766863561167,1,09:15,63.119179054921624,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,0.0,0.0,0,09:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,41.45821561899166,19.292452959148815,1,09:45,46.53469202931905,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,46.53984603127774,23.480142543430222,1,10:00,50.45169794427354,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,0.0,0.0,0,10:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,5.810120907022739,3.5681393098223753,1,10:30,61.412479480582526,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,10.892510042652503,9.306783232543857,1,10:45,85.44204408442762,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,0.0,0.0,0,11:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,31.9003666054544,13.950967398345002,1,11:15,43.73293752667918,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,5.275198126763653,2.555402211615105,1,11:30,48.44182436770105,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,7.685949677981938,6.6385267124252385,1,11:45,86.37223753159263,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,19.670739589083773,16.262622279095268,1,12:00,82.67417808794627,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,20.287465918679793,19.005485567513837,1,12:15,93.68092419080509,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,27.6279045248102,14.380898779531206,1,12:30,52.05207932659888,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,19.64856330085223,11.93448657116785,1,12:45,60.73974157006282,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,8.913008094165018,4.65929722940593,1,13:00,52.27524961473087,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,0.0,0.0,0,13:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,6.442223122142796,4.688838111634086,1,13:30,72.78292016179806,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,0.0,0.0,0,13:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,46.39743097186196,25.896457083406577,1,14:00,55.81442019734166,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,29.718093251863,27.12675265075866,1,14:15,91.28025954040005,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,38.263342971665686,20.972737580726214,1,14:30,54.811566245679835,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,19.7056392269344,10.404630823510082,1,14:45,52.80027054026568,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,0.0,0.0,0,15:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,0.0,0.0,0,15:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,49.31289668421937,32.94623369803515,1,15:30,66.81058285626584,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,38.163431138325315,27.006711827881187,1,15:45,70.76594274239643,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,40.71188361792205,38.963802156954266,1,16:00,95.7062132585822,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,47.18650595202051,24.916549424005822,1,16:15,52.80439592060726,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,5.1367216177590445,2.2725078919311787,1,16:30,44.240433121283054,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,28.042272105280794,18.572853279189452,1,16:45,66.23162777060385,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,28.695420511003906,13.97473422559713,1,17:00,48.700224554082425,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,26.272350359803067,24.18356201917982,1,17:15,92.04948049178306,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,48.9049086359454,33.9605624431995,1,17:30,69.44203228352069,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,0.0,0.0,0,17:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,23.387945413441187,15.763566271728468,1,18:00,67.40038935899454,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,11.115958459302362,5.02768927598947,1,18:15,45.22947161413743,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,42.32078611294432,18.985223051969612,1,18:30,44.86027977198362,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,39.74944485353996,21.10734153162325,1,18:45,53.100971873682646,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,10.827695846214919,5.453869758034812,1,19:00,50.36962466895801,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,5.514387005571299,5.017416216435222,1,19:15,90.98774190795862,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,0.0,0.0,0,19:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,6.45092442075676,4.509337460435763,1,19:45,69.90219023379554,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,0.0,0.0,0,20:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,16.086174983365936,8.093359752011194,1,20:15,50.312518422684136,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,31.77921997578708,31.766399792826334,1,20:30,99.95965859775502,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,47.80709436006487,46.94779369888742,1,20:45,98.20256664271307,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,14.433151145639812,6.120789022263696,1,21:00,42.407849543741236,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,29.991535847608134,14.698310165870728,1,21:15,49.008194313739814,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,9.100758181948226,7.441102689119956,1,21:30,81.76354695238169,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,18.87189193971207,10.158944226639766,1,21:45,53.83108518792611,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,36.04128096083055,16.719453949309642,1,22:00,46.38973283851994,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,38.51741908942678,30.540468764122895,1,22:15,79.29001861006415,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,26.82987141921082,26.317427053545938,1,22:30,98.09002302822084,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,Pompa,33.975411769471634,22.616854350083983,1,22:45,66.56830093345975,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,Pompa,22.84667521117954,9.27479421401889,1,23:00,40.59581592633866,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,0.0,0.0,0,23:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma B,Pompa,7.791165802294998,5.767400285943615,1,23:30,74.024869092694,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma B,Pompa,5.132766618890509,2.9765114690522383,1,23:45,57.99039173333068,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma B,LPG Kompresörü,31.746404247950977,17.572472992348338,1,00:00,55.35264042850625,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,32.44205951396222,27.93973812628875,1,00:15,86.12196187564544,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,25.497074452212324,22.565307207136783,1,00:30,88.50155436236271,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,45.32553086088978,32.17880176033401,1,00:45,70.99487010774375,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,27.28436747398255,20.990541963747074,1,01:00,76.93248518135135,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,0.0,0.0,0,01:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,0.0,0.0,0,01:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,38.53443403108976,25.57008544186074,1,01:45,66.35645776250581,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,30.15716279829554,16.70590365722138,1,02:00,55.3961384529369,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,0.0,0.0,0,02:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,23.95871020467474,16.010785634760534,1,02:30,66.8265757963739,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,42.891827628005,19.75987446850766,1,02:45,46.06908952419182,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,27.58796488033908,12.819421692886788,1,03:00,46.46744241008772,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,0.0,0.0,0,03:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,29.32350376237388,21.25010547088356,1,03:30,72.46782527451714,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,42.824308417154455,19.249969772924626,1,03:45,44.95103478475212,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,0.0,0.0,0,04:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,15.669122393031007,10.784153666007336,1,04:15,68.82423530499509,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,33.55351875313049,23.24182770744688,1,04:30,69.26792947842006,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,19.041617707446772,14.075710034838757,1,04:45,73.92076792579469,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,30.578131215643065,18.29426901261606,1,05:00,59.82794986260356,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,42.57226649315209,24.16492204847941,1,05:15,56.76212247794331,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,7.119732566565972,4.3853979024925005,1,05:30,61.59498073124521,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,17.281834391623924,14.955920295641093,1,05:45,86.5412777181215,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,0.0,0.0,0,06:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,30.26340489477449,25.173909638009302,1,06:15,83.18267467107121,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,17.462568300085916,7.402325171237361,1,06:30,42.38967054577499,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,30.28861809303234,15.1201703662156,1,06:45,49.92030445157178,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,0.0,0.0,0,07:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,20.625485689387258,13.77811013467776,1,07:15,66.80138515122202,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,21.442552209819226,21.366007627448656,1,07:30,99.64302485253823,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,LPG Kompresörü,0.0,0.0,0,07:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,27.119499414732434,12.436938747279001,1,08:00,45.859765171486686,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,0.0,0.0,0,08:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,41.06797889125215,26.151194104672392,1,08:30,63.67782104378852,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,25.79591002886876,11.820741999411476,1,08:45,45.82409376595991,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,41.09206954219093,20.020119304786036,1,09:00,48.72015337224754,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,6.493866286135894,4.029772874437667,1,09:15,62.055063915329555,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,26.240457467046028,11.197805745693543,1,09:30,42.67382060604798,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,13.046933497720566,7.154433522940864,1,09:45,54.83613083634417,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,38.41587874357655,30.84546265034112,1,10:00,80.29352356152658,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,0.0,0.0,0,10:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,28.589003481100377,13.207737872576969,1,10:30,46.19866474642372,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,7.583734943794053,4.955220673208503,1,10:45,65.34010892961753,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,0.0,0.0,0,11:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,0.0,0.0,0,11:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,49.154771892660754,46.5042026956659,1,11:30,94.60770725824362,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,LPG Kompresörü,38.06523084137115,34.62640074783706,1,11:45,90.96595497380618,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,LPG Kompresörü,20.111936393810673,12.571285558231546,1,12:00,62.50658967925278,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,10.09115665150749,9.032244182090233,1,12:15,89.50653026222649,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,37.4250403712908,36.25804973566437,1,12:30,96.88179191245004,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,LPG Kompresörü,35.83472778371949,16.81399421450161,1,12:45,46.92094862833193,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,45.403322873433986,33.64381784826702,1,13:00,74.09990220771354,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,0.0,0.0,0,13:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,14.916862027958164,7.008099567083303,1,13:30,46.98105777172344,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,34.83232431743526,30.20950688415081,1,13:45,86.72836934120268,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,40.16717328946633,21.86840911881157,1,14:00,54.44348538348967,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,21.52754516453523,15.741366395291207,1,14:15,73.121975938175,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,13.404106559212169,11.612449821760679,1,14:30,86.63352361802772,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,7.10489695010991,7.052166602304983,1,14:45,99.25783092738438,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,LPG Kompresörü,0.0,0.0,0,15:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,45.058029614529524,20.472702229516152,1,15:15,45.436301597428205,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,0.0,0.0,0,15:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,22.429000145394568,9.50091138315725,1,15:45,42.35994168963483,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,15.56722951900302,11.2676522856889,1,16:00,72.38058815754212,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,18.116380679958603,15.834331225941225,1,16:15,87.40339202221604,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,0.0,0.0,0,16:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,40.48536231639995,16.19477640118067,1,16:45,40.001559760329556,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,0.0,0.0,0,17:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,0.0,0.0,0,17:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,49.034698273835865,35.07003840181232,1,17:30,71.52086101552527,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,32.028402041603556,21.592109647676054,1,17:45,67.41550708533259,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,0.0,0.0,0,18:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,39.37953577521574,30.082940561459658,1,18:15,76.39231892721531,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,49.44956318561622,38.48592270857007,1,18:30,77.82864039487566,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,0.0,0.0,0,18:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,7.131821567778835,4.396452602501925,1,19:00,61.645577651084935,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,38.46059244750606,26.613319204631722,1,19:15,69.1963319102679,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,0.0,0.0,0,19:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,0.0,0.0,0,19:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,16.85633737562128,8.337351157389612,1,20:00,49.461226194058185,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,23.426524995939126,16.009022519763857,1,20:15,68.33716277825646,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,0.0,0.0,0,20:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,35.72665634813611,35.1956070208328,1,20:45,98.51357674748924,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,LPG Kompresörü,45.4017090698324,38.67502098474568,1,21:00,85.1840641621213,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,0.0,0.0,0,21:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,39.943932668411925,19.017282636653928,1,21:30,47.60994064986744,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,47.038110800039306,45.04097709767439,1,21:45,95.75422212245131,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,LPG Kompresörü,20.270205529972067,15.979065206337252,1,22:00,78.83030679047718,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma B,LPG Kompresörü,33.905475841697,31.90970079775151,1,22:15,94.11370879068718,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,LPG Kompresörü,0.0,0.0,0,22:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,7.487544078218849,3.2426630801233407,1,22:45,43.30743226682562,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,LPG Kompresörü,37.19371615558286,20.22893256008693,1,23:00,54.38803822524337,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,30.323335536083377,20.452799929225282,1,23:15,67.44904400403904,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma B,LPG Kompresörü,10.319274123450533,9.976565803178593,1,23:30,96.67894935077715,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma B,LPG Kompresörü,24.77543205948045,10.139589138751798,1,23:45,40.92598310458861,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma B,Hava Kompresörü,38.409157314236055,30.387668307630932,1,00:00,79.11568603034146,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,7.619835230601238,6.327799262864072,1,00:15,83.04378075593613,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,11.748177793550045,6.2761525613799565,1,00:30,53.42234916486941,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,0.0,0.0,0,00:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,10.037102274129719,4.685126022149485,1,01:00,46.678073951933655,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,0.0,0.0,0,01:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,47.189676981566826,37.84809183902812,1,01:30,80.20417654863859,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,25.857024084170302,25.304613089475136,1,01:45,97.86359407448843,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,15.797165864078451,10.672952936492786,1,02:00,67.562454103,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,24.087190210875384,10.512637179349698,1,02:15,43.644099155256534,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,32.50036485885353,19.182265031881943,1,02:30,59.021691341586404,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,12.637267842833218,8.199961586377672,1,02:45,64.8871392800936,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,28.63714532779523,19.161952939634077,1,03:00,66.91292976411121,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,49.008352826680586,27.83304340650512,1,03:15,56.79244822803463,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,46.02175216612127,26.524293320660377,1,03:30,57.634253526283885,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,6.512572199215487,2.875281833185315,1,03:45,44.1497114386183,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,16.06097632958887,14.493302404530265,1,04:00,90.2392364393782,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,9.37488087493201,8.910449046583073,1,04:15,95.0459975487176,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,17.590963039869695,10.477169367234096,1,04:30,59.55995327537056,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,27.11273821464571,27.063072804333302,1,04:45,99.81681890659948,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,7.961008734709459,4.142964416711405,1,05:00,52.04069678567693,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,39.02600575076497,15.883840752119069,1,05:15,40.70065702741746,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,0.0,0.0,0,05:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,0.0,0.0,0,05:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,35.17186415482435,17.089130881104733,1,06:00,48.58750393746389,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,49.27996298325207,33.66927153582356,1,06:15,68.32243674222353,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,11.870565733856424,7.142156700552906,1,06:30,60.16694453055873,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,34.40060008293351,15.200835970814545,1,06:45,44.18770583701485,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,0.0,0.0,0,07:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,27.660346523937942,18.125537497427157,1,07:15,65.52896031776345,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,22.71799978690726,19.447461350184494,1,07:30,85.60375707632663,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,44.430158047018985,32.4794698061976,1,07:45,73.10230535715321,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,22.996723326383048,18.713363252043916,1,08:00,81.37404179914172,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,43.2554998217796,22.742058692029882,1,08:15,52.576108901136806,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,0.0,0.0,0,08:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,29.67669349342474,28.849062244226268,1,08:45,97.21117431973396,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,30.390316705447994,16.947559271646856,1,09:00,55.76631344749596,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,23.484146693280447,14.461470699186439,1,09:15,61.579715405730795,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,39.3870982313921,33.81119702013272,1,09:30,85.84333078181598,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,0.0,0.0,0,09:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,9.44915917891299,9.22430787672835,1,10:00,97.62040941498347,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,0.0,0.0,0,10:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,8.136640490984266,5.251897566424945,1,10:30,64.54626540578097,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,41.105987801915155,35.13934205808047,1,10:45,85.48472847170774,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,0.0,0.0,0,11:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,20.137375317349573,19.708194233128765,1,11:15,97.8687337477837,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,43.13458809621999,41.84417159589947,1,11:30,97.00839498584754,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,0.0,0.0,0,11:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,34.67840281403238,27.612913497253164,1,12:00,79.62567839508394,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,0.0,0.0,0,12:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,16.389924515755396,10.010512227292871,1,12:30,61.07723203770653,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,30.416762791636405,25.901178637865158,1,12:45,85.15429079450597,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,8.293123261851896,8.2592851895229,1,13:00,99.59197432305571,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,27.44863977230009,23.82155534146658,1,13:15,86.78592286932266,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,0.0,0.0,0,13:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,33.53838425572435,17.18118770414184,1,13:45,51.228430007654126,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,8.234841893376247,7.580194553108393,1,14:00,92.05027432531008,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,34.47634396788522,24.307100567731027,1,14:15,70.5037070936905,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,30.50614485403403,23.68291868853873,1,14:30,77.63327290897257,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,46.67464978473964,45.06816237476976,1,14:45,96.55811577081158,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,0.0,0.0,0,15:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,0.0,0.0,0,15:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,9.117321683466052,7.034018612602594,1,15:30,77.15005411466991,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,0.0,0.0,0,15:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,46.60635146602454,30.07664431621533,1,16:00,64.53335944595628,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,23.415368500021938,12.658657372571353,1,16:15,54.06132033565687,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,23.419333206924136,18.22320544555582,1,16:30,77.81265710916126,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,38.081102527869426,25.6983536680314,1,16:45,67.48321861013403,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,33.09000673319676,23.234659555671506,1,17:00,70.21654526398717,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,38.565851192440746,30.962906859645575,1,17:15,80.28581219468737,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,8.179355523419503,4.458734035639975,1,17:30,54.51204588030836,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,19.558669616049123,10.567770812123042,1,17:45,54.03113309635088,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,12.898451245955155,8.338679520999685,1,18:00,64.64868814086981,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,46.9129152359955,27.00998557920472,1,18:15,57.57473276459359,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,36.39039242834646,33.414020223915216,1,18:30,91.82099448283833,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,18.133983294056534,11.446527285482157,1,18:45,63.121968846380206,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,0.0,0.0,0,19:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,8.460692814289184,6.260932976317551,1,19:15,74.00023985912266,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,44.16134832205212,40.09997636918327,1,19:30,90.80333344160873,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,49.142013523676404,38.42015782500471,1,19:45,78.18189583642935,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,16.135418116973206,13.64633226460848,1,20:00,84.57377531638674,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,20.925711113993636,20.85325061728021,1,20:15,99.65372504514329,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,17.987905221812152,7.489395985409674,1,20:30,41.63573186013914,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,15.993137849679407,8.413566004703828,1,20:45,52.60735000087855,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,40.54482678063583,26.27566701293057,1,21:00,64.80646015604586,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,18.62973500543351,12.972678963680963,1,21:15,69.63426457701829,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma B,Hava Kompresörü,26.103190504285706,24.21103227530914,1,21:30,92.75123771300713,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,36.58523809007919,29.17472570356206,1,21:45,79.74452874060526,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,15.050146422253784,11.271164486953678,1,22:00,74.89072976916462,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,28.539291330878594,14.263821570623943,1,22:15,49.979592713961146,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,49.3027953087051,46.28891250138236,1,22:30,93.88699405692603,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma B,Hava Kompresörü,36.90481870593672,27.0457290395577,1,22:45,73.28508847330272,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,31.40349568292869,27.858182194504103,1,23:00,88.71044954924601,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,42.632051407991106,35.18633896498051,1,23:15,82.53494214539498,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma B,Hava Kompresörü,0.0,0.0,0,23:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma B,Hava Kompresörü,49.41619730217316,36.55212939704608,1,23:45,73.96791212714103,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Pompa,43.59863837200524,34.328446361512256,1,00:00,78.73742768892207,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,19.713666189663805,7.991222097005115,1,00:15,40.536458414797764,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,29.54828996886482,22.475416729867188,1,00:30,76.06334157932538,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,14.233889553247453,13.669892535579029,1,00:45,96.03764652269801,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,Pompa,18.444136937140772,17.449909001318197,1,01:00,94.6095177062988,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,Pompa,38.827796449783314,22.83125490376096,1,01:15,58.80131501484775,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,0.0,0.0,0,01:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,36.160971551904964,27.121856995411957,1,01:45,75.00312030190233,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,34.04935936463755,15.121789112149708,1,02:00,44.411376291134154,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,38.312042443102904,22.162766926019053,1,02:15,57.848043363735854,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,16.52215108935951,15.410111195401626,1,02:30,93.26940004395642,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,Pompa,11.406985799020434,6.422606774622241,1,02:45,56.30415333009161,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,0.0,0.0,0,03:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,29.544109374311923,17.750716992384362,1,03:15,60.08208528979484,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,16.83560920997121,7.74966066016572,1,03:30,46.03136461243016,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,5.55292330608731,5.315531781559477,1,03:45,95.72492700794919,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,Pompa,28.99488790314627,21.744067623900577,1,04:00,74.99276319513241,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,19.723734532684887,10.892334966090807,1,04:15,55.224506028717535,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,25.464112278656067,10.775455834301795,1,04:30,42.31624380376985,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,39.379636178220565,35.28004501536238,1,04:45,89.58956567220517,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,33.89967914955277,26.456838624919676,1,05:00,78.04451041616633,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,9.521230884092816,4.012678182523346,1,05:15,42.144531850680714,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,31.89223687994651,15.510044968136302,1,05:30,48.63266576916983,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,42.30953214990954,31.962976052608056,1,05:45,75.54556722432676,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,0.0,0.0,0,06:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,30.16159209251154,19.514299117654467,1,06:15,64.6991679278742,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,25.256961713136675,13.83073465391803,1,06:30,54.76008876683047,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,0.0,0.0,0,06:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,14.58083238215865,12.93466954149835,1,07:00,88.71009008597773,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,23.283268158377126,11.69663550067565,1,07:15,50.236227238860785,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,11.194846359991331,9.74519673603962,1,07:30,87.0507412309602,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,45.08109549990414,29.050643963589398,1,07:45,64.44085628675809,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,32.02790821920543,24.449977277115952,1,08:00,76.33960079370593,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,30.99519787419821,17.395576974233954,1,08:15,56.12345836551283,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,0.0,0.0,0,08:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,0.0,0.0,0,08:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,43.98127527023904,26.67741967900059,1,09:00,60.656312294456114,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,31.33439081305483,14.110471951258079,1,09:15,45.03190132351078,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,0.0,0.0,0,09:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,7.542414287078095,4.57666946680685,1,09:45,60.6791047615582,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,12.087015298668408,6.366089114179986,1,10:00,52.66882647928244,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,26.958869505701607,11.695952114663493,1,10:15,43.38443090942624,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,0.0,0.0,0,10:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,28.666163680982816,15.45367156305285,1,10:45,53.90910250507236,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,7.842773792946192,6.360750607913674,1,11:00,81.10332869264376,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,10.091153531798607,9.736772196001564,1,11:15,96.48819795794068,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,Pompa,0.0,0.0,0,11:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,0.0,0.0,0,11:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,0.0,0.0,0,12:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,48.529962283388386,26.56118604201263,1,12:15,54.731520059524996,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,37.66467308735556,35.16176079952627,1,12:30,93.35474840834462,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,Pompa,41.25381219660144,18.50205063716679,1,12:45,44.849311256357105,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,20.882325057943387,9.703072236222377,1,13:00,46.46547838566206,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,30.59995301215823,13.381030678642155,1,13:15,43.728925574903634,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,12.658258016260952,12.267636718007038,1,13:30,96.91409909837422,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,Pompa,0.0,0.0,0,13:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,23.608701294509046,16.24772160278867,1,14:00,68.82090378502774,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,0.0,0.0,0,14:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,39.691421743126284,20.375364455049354,1,14:30,51.33442834805467,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,31.87717551471388,26.61532004178731,1,14:45,83.49334472717698,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,16.16305779960241,9.929416291438589,1,15:00,61.432783416036784,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,33.69300550860896,23.786394195661277,1,15:15,70.59742470758084,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,0.0,0.0,0,15:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,16.437914425592343,10.924602453884289,1,15:45,66.45978419790087,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,0.0,0.0,0,16:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,25.76107547625523,21.013951689611062,1,16:15,81.57249377643517,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,25.814174214200175,25.43552283772295,1,16:30,98.53316486773792,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,Pompa,0.0,0.0,0,16:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,40.60653944239837,35.39270858093715,1,17:00,87.16012018493426,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,39.747234438590894,38.42084331156919,1,17:15,96.66293480349944,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,Pompa,46.48215531122772,36.57227552004664,1,17:30,78.68024895827634,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,38.59234692323809,29.437807043500314,1,17:45,76.27887234236735,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,49.40192293116227,34.83562144728084,1,18:00,70.51470748582311,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,6.207348921854908,3.4731572371799553,1,18:15,55.95234424395932,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,0.0,0.0,0,18:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,12.485881442857444,11.421173587717224,1,18:45,91.4727057115436,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,Pompa,47.25587061458601,21.059368891557728,1,19:00,44.564555932776614,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,32.352014947369,25.261415150741946,1,19:15,78.0829731682487,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,49.26315649110767,24.494550919914964,1,19:30,49.72184623276504,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,0.0,0.0,0,19:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,0.0,0.0,0,20:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,32.04689177799776,16.457991604514067,1,20:15,51.355968368244476,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,0.0,0.0,0,20:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,46.679845525753066,35.89186531295607,1,20:45,76.88942606537694,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,29.03755374173821,11.713042508236864,1,21:00,40.33756635429205,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,8.907352743708064,4.834230818586487,1,21:15,54.27236304300702,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,19.695846831331657,9.98283150324138,1,21:30,50.68495703043823,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,44.56390450692783,29.673608453280387,1,21:45,66.58664401515217,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,22.946195089955662,15.098160802399889,1,22:00,65.79810179077955,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma C,Pompa,28.105589627515208,22.44003229132453,1,22:15,79.84188408328524,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,31.218833092048953,27.62662680757885,1,22:30,88.49346394889758,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,13.015890922160091,11.069623211894267,1,22:45,85.04698816312126,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,0.0,0.0,0,23:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma C,Pompa,39.34354019692799,34.735077597831875,1,23:15,88.28660924759396,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,30.07957388793086,22.068902562779193,1,23:30,73.36840157710522,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,Pompa,17.599167687104472,13.637296798564254,1,23:45,77.48830536205857,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,31.49711008884681,18.468150117891216,1,00:00,58.63442730395392,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,34.16021677716835,15.05594032345122,1,00:15,44.07448706096664,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,40.215217317793496,25.47820758644509,1,00:30,63.354643554722465,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,13.14791032513296,10.95699265069662,1,00:45,83.33638106545129,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,10.334391427709022,7.304247842896635,1,01:00,70.6790321809581,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,40.10699652185645,24.332972974488687,1,01:15,60.67014507363658,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,16.23926444604033,9.627252928038432,1,01:30,59.283799214107106,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,41.935319599566455,23.265640608224725,1,01:45,55.47982185514393,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,0.0,0.0,0,02:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,18.91323740860414,12.986050556956165,1,02:15,68.66117247091957,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,29.721820974999623,14.490260900763062,1,02:30,48.752937826223636,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,7.680335943427718,6.796369500609102,1,02:45,88.49052373060516,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,31.13713907977226,22.39930540845677,1,03:00,71.93758344679814,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,14.315083473608238,10.990465515746363,1,03:15,76.7754203879338,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,0.0,0.0,0,03:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,0.0,0.0,0,03:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,0.0,0.0,0,04:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,6.7264094806100605,4.699820759933913,1,04:15,69.87116638500659,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,0.0,0.0,0,04:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,7.136083742323111,6.934239380156762,1,04:45,97.17149672769058,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,LPG Kompresörü,25.975379750695186,14.91125345542303,1,05:00,57.405333814316826,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,0.0,0.0,0,05:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,6.774721325967192,4.185962451038116,1,05:30,61.78796513730413,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,0.0,0.0,0,05:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,24.269638830369658,11.98121191463052,1,06:00,49.3670795777888,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,12.587877009185164,11.404397716391035,1,06:15,90.59826139125316,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,LPG Kompresörü,30.31796597164977,25.463519201214922,1,06:30,83.98821749792111,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,45.87552874505287,32.35977662021398,1,06:45,70.53820959764654,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,31.977063638668408,17.692600547949073,1,07:00,55.329034422517196,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,46.27907101365867,21.582404669990577,1,07:15,46.63534551854078,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,37.18003772451816,23.224634227681786,1,07:30,62.4653326060679,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,20.48861750858027,16.191980913442872,1,07:45,79.02915317083722,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,47.71620589418072,41.89107660586174,1,08:00,87.79213648872827,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,10.68712646326126,5.536291229153837,1,08:15,51.80336592989463,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,41.59800983007527,16.645124992301152,1,08:30,40.01423399892262,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,46.18397425602737,42.08114765798265,1,08:45,91.11634140600347,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,LPG Kompresörü,41.73104562879418,16.84498638689161,1,09:00,40.36559864023313,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,44.921844063790864,33.094530983631266,1,09:15,73.67135448989065,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,40.757008071063694,30.87875012443477,1,09:30,75.76304440844812,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,33.29627954387594,19.698332267897076,1,09:45,59.16076071484123,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,43.48518167482843,17.44024218606603,1,10:00,40.10617298665072,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,38.752639557249445,30.40245659695366,1,10:15,78.45260850435743,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,0.0,0.0,0,10:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,44.53504535708011,29.297179141971007,1,10:45,65.78454991359605,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,11.280121487387959,7.597781354619756,1,11:00,67.35549225347137,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,5.700463990743411,3.6556128351780695,1,11:15,64.12833834428507,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,0.0,0.0,0,11:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,0.0,0.0,0,11:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,36.894468650190404,33.98462433400796,1,12:00,92.11306078487885,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,LPG Kompresörü,37.89293949431521,26.137904438692548,1,12:15,68.97829724351108,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,46.32194733768823,41.069798197513556,1,12:30,88.66164001723338,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,13.009434889580188,11.489114350217475,1,12:45,88.31370807212846,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,0.0,0.0,0,13:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,0.0,0.0,0,13:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,0.0,0.0,0,13:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,22.9933532192223,21.08640673502439,1,13:45,91.70653159625402,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,LPG Kompresörü,6.652927330917237,5.59678870460329,1,14:00,84.12520423294121,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,22.072924193161917,12.224870250045216,1,14:15,55.384008675354494,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,11.358353028399414,10.505088937702617,1,14:30,92.4877833206683,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,LPG Kompresörü,39.29016596381524,31.857968113481157,1,14:45,81.08382169426605,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,39.72231590106683,27.10964849009855,1,15:00,68.2479051765722,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,7.683944028837963,3.7514630114338168,1,15:15,48.82210226095501,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,19.75889294032801,11.628666004691302,1,15:30,58.85282156146071,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,0.0,0.0,0,15:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,24.57961671589454,18.166579986648017,1,16:00,73.90912639781116,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,49.3906686769264,45.44265476773646,1,16:15,92.00655910326981,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,LPG Kompresörü,24.519107415505765,17.300103560788987,1,16:30,70.55764007889,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,43.844398757700404,26.829935630328396,1,16:45,61.19353073718737,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,33.17376259159052,16.162921769443752,1,17:00,48.722003495440156,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,37.54651714702174,36.42174453916628,1,17:15,97.00432238907499,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,LPG Kompresörü,21.05818664520654,9.510172387571957,1,17:30,45.16140229831589,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,21.355270866012656,19.15757674199985,1,17:45,89.70889136550134,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,19.40170130903134,10.11966140841396,1,18:00,52.158629015195366,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,0.0,0.0,0,18:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,28.876988205710113,19.95280293742815,1,18:30,69.09585859609382,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,29.147994116956678,16.38294424584088,1,18:45,56.20607778396043,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,40.295771192652865,29.414766952631116,1,19:00,72.99715598443322,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,16.57822463690007,15.819918029721197,1,19:15,95.42588773051716,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,LPG Kompresörü,41.569835215615306,26.311009903060956,1,19:30,63.293515037022516,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,0.0,0.0,0,19:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,14.940136704757744,11.655279591637653,1,20:00,78.013205782287,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,41.66560666464878,19.47848028579596,1,20:15,46.74954199652275,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,32.78795825840899,25.200321626988302,1,20:30,76.85846562441954,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,37.77026287489361,31.014676456611202,1,20:45,82.11400741197134,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,40.83282603255043,36.84970539588786,1,21:00,90.24529765956592,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,LPG Kompresörü,43.178205209742494,30.129487699602162,1,21:15,69.7793888218492,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,27.504264775517882,12.65054123860443,1,21:30,45.99483513504036,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,48.6887313883212,40.55969551690188,1,21:45,83.30407131254769,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,35.15167894427185,29.118904771576698,1,22:00,82.83787758115541,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,0.0,0.0,0,22:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma C,LPG Kompresörü,44.81649625595842,37.543253193699044,1,22:30,83.7710582712222,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,13.281657770418766,7.295614288736511,1,22:45,54.929997556370424,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,48.35094782648597,34.92115827586785,1,23:00,72.22435101207785,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,LPG Kompresörü,39.15106937859731,36.735513530556226,1,23:15,93.83016636229712,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma C,LPG Kompresörü,22.316665351996814,14.542620323576605,1,23:30,65.16484472119122,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma C,LPG Kompresörü,34.21226944484849,24.398481012059573,1,23:45,71.3150030908966,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,5.57040915004095,5.2882326533535124,1,00:00,94.93436677473927,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,41.68967091521244,22.186978165999122,1,00:15,53.21936508235463,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,5.453360835855051,3.837366925250688,1,00:30,70.36700927656503,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,32.514876644595994,23.69227247009682,1,00:45,72.86594603776392,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,0.0,0.0,0,01:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,6.112670084749638,4.319965899478152,1,01:15,70.67232223535076,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,0.0,0.0,0,01:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,43.333336380121885,17.883157412030698,1,01:45,41.26882189536221,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,33.982570484469036,33.19707066527218,1,02:00,97.68852147439567,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,39.0646680929308,32.84863583297769,1,02:15,84.0878405899525,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,15.114372335184786,13.19984662293903,1,02:30,87.3330782794802,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,6.933269573484129,4.6837595571172015,1,02:45,67.55484562478225,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,36.07759186011408,28.08931962226887,1,03:00,77.85807803132026,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,44.70303837529053,20.98826989548462,1,03:15,46.9504325842107,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,43.20218588625295,28.99331946154316,1,03:30,67.11076966771931,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,0.0,0.0,0,03:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,22.497323579995705,10.79442670912218,1,04:00,47.98093724677733,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,35.42668945931426,28.25599001293294,1,04:15,79.75904732894531,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,39.23082269907758,38.84457766994682,1,04:30,99.01545518916728,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,0.0,0.0,0,04:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,9.850202367837941,9.243650493364623,1,05:00,93.84223946044214,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,15.403692098201665,6.866073487416819,1,05:15,44.5742062594098,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,11.839666496538943,10.163279584047169,1,05:30,85.84092792662845,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,10.491727490819788,9.704411649790458,1,05:45,92.4958416836672,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,41.27934744547712,29.93688872355552,1,06:00,72.52267919956093,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,37.87433676074467,25.18110089494347,1,06:15,66.4859190908466,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,17.487982556671746,12.059196384610354,1,06:30,68.95704719244311,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,36.66966626810455,23.118685220705114,1,06:45,63.04580208523429,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,0.0,0.0,0,07:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,32.88612649344553,22.903552611703198,1,07:15,69.64502984645534,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,0.0,0.0,0,07:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,24.72583723279262,19.837059854236106,1,07:45,80.22806130878845,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,40.95083295115374,32.415643490030234,1,08:00,79.1574704443636,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,17.915952763595964,9.04315718344809,1,08:15,50.4754466746708,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,49.224853032400354,25.029511676487054,1,08:30,50.84730605495632,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,19.75371383555015,9.962233610443668,1,08:45,50.43220577851514,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,44.33017767774613,25.97522151174044,1,09:00,58.59489601094035,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,31.877904929990944,21.811804334357827,1,09:15,68.42295433862449,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,12.93086227246759,5.728257539106764,1,09:30,44.29911492680096,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,48.570457533323385,35.35031003448606,1,09:45,72.78150511601172,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,15.49138794214227,7.77829464164499,1,10:00,50.210443833022666,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,37.48904052701116,31.51911426879149,1,10:15,84.07554268048474,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,0.0,0.0,0,10:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,15.14513537148271,10.636779269802197,1,10:45,70.23231558451799,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,13.054393243763508,9.500145897958182,1,11:00,72.77355385702586,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,8.06371408000428,6.864532411774454,1,11:15,85.12866829934539,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,27.207464451538627,13.091076018233531,1,11:30,48.11575162232072,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,38.14931414408984,22.64879505523404,1,11:45,59.36881321034924,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,14.051650266617989,13.414125643448477,1,12:00,95.46299110016953,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,14.390865627380231,7.292890970490765,1,12:15,50.67722233897608,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,45.92447151913621,30.920860653262736,1,12:30,67.32981269121052,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,5.181379877708716,5.049758527507782,1,12:45,97.45972398651575,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,0.0,0.0,0,13:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,0.0,0.0,0,13:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,33.760485565381046,19.0621790644843,1,13:30,56.462988447154316,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,46.65839512074914,21.669859088984776,1,13:45,46.44364434932765,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,41.16106813522283,26.26989603768502,1,14:00,63.82219225065503,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,7.226162303584527,4.370548813248515,1,14:15,60.48229516074544,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,19.321921672355646,13.042598098442193,1,14:30,67.50155765874241,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,46.14070429351745,34.34777122432623,1,14:45,74.44136744386871,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,46.23268772568073,45.637035997536636,1,15:00,98.71162210668271,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,44.92750724067948,23.12478627645317,1,15:15,51.47133170013692,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,23.312930025276486,21.45633993836433,1,15:30,92.03622159505822,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,0.0,0.0,0,15:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,41.68837379027275,25.701856743795144,1,16:00,61.65233710745566,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,23.065103668291844,16.925060298197135,1,16:15,73.37951106399936,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,36.77922818673326,36.50701276125687,1,16:30,99.2598664004195,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,28.423535756139835,27.773033058676834,1,16:45,97.71139416628529,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,29.09280081148869,25.270325170559936,1,17:00,86.8610943796815,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,18.766920547693534,17.00051794935094,1,17:15,90.58768009459236,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,41.501289353871975,33.27697283305085,1,17:30,80.18298551957201,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,37.74699709573349,21.186609947119212,1,17:45,56.12793487488814,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,23.25658885698583,10.89023619984564,1,18:00,46.82645536202281,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,0.0,0.0,0,18:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,0.0,0.0,0,18:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,10.637648886586112,6.192138431558358,1,18:45,58.20965231674957,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,25.49037858278343,12.578958397099456,1,19:00,49.34786808382464,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,5.782167972566773,5.777278946818599,1,19:15,99.91544649392114,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,28.915185981852545,24.12201206719991,1,19:30,83.42333361555801,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,0.0,0.0,0,19:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,0.0,0.0,0,20:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,24.006905309175636,13.763840242097565,1,20:15,57.3328384680924,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,0.0,0.0,0,20:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,26.310040103118357,10.578667417019059,1,20:45,40.20772060991742,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,35.49604212710645,27.70171248706514,1,21:00,78.04169374114758,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,29.64697174117992,20.076575622569287,1,21:15,67.71880716128163,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,27.78787458564476,11.686085755267598,1,21:30,42.054622491007784,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,11.643201227526706,10.674520001813024,1,21:45,91.68028442707372,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma C,Hava Kompresörü,45.23466269948276,34.22860414995505,1,22:00,75.66897177360062,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,0.0,0.0,0,22:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,10.907508082122938,5.713132399980505,1,22:30,52.37797998375219,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,48.44707787380397,43.03305462342465,1,22:45,88.82487141023884,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma C,Hava Kompresörü,27.403412541678982,12.521797913218178,1,23:00,45.69430137276975,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma C,Hava Kompresörü,15.34421899881157,8.31391683145033,1,23:15,54.182730526032344,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,41.94288007372725,25.72309652430096,1,23:30,61.32887507745025,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma C,Hava Kompresörü,42.57275115084101,24.347875011457333,1,23:45,57.19121821652898,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Pompa,17.835790863029143,13.968441762611906,1,00:00,78.31691832385377,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,22.143382763097115,15.485593694531977,1,00:15,69.9332792112476,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,35.561808154837664,20.454305507921482,1,00:30,57.51761951715881,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,39.792301188866546,16.876402755905474,1,00:45,42.41122591982016,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,14.296242370955595,11.346197422049396,1,01:00,79.36489272943817,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,0.0,0.0,0,01:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,7.200002143917528,3.1400082045280433,1,01:30,43.61121207693922,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,0.0,0.0,0,01:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,25.621005678163055,23.27903910804774,1,02:00,90.85919343083637,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,Pompa,0.0,0.0,0,02:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,44.377135953455884,20.580565676531187,1,02:30,46.37650725841505,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,0.0,0.0,0,02:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,36.69084620073369,23.328482967082827,1,03:00,63.581207256583625,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,25.275927999151666,20.86008339560455,1,03:15,82.52944618415069,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,12.265729697122637,12.228701892635371,1,03:30,99.69811983957258,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,Pompa,0.0,0.0,0,03:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,38.018866372002805,28.52226369070312,1,04:00,75.02134180336053,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,0.0,0.0,0,04:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,17.65953761138021,8.859367803895918,1,04:30,50.16760913483227,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,21.717767076077887,10.456159375426614,1,04:45,48.14564655196099,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,39.943633750179316,32.394857867660626,1,05:00,81.10142925470619,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,28.890110782513357,28.235854025994623,1,05:15,97.73536085948572,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,Pompa,0.0,0.0,0,05:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,34.394188475962025,25.913554677040604,1,05:45,75.34282919671588,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,13.249301104050756,10.983124549501705,1,06:00,82.89587853161397,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,33.382803762388505,27.85205760283362,1,06:15,83.43234978427358,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,13.679658143386133,7.633321094018276,1,06:30,55.800525232487985,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,19.75953116520178,10.206976349120982,1,06:45,51.65596422194641,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,20.107721650607793,10.143636986399144,1,07:00,50.44647604863047,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,7.313027451417899,6.524059898385836,1,07:15,89.2114783067156,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,0.0,0.0,0,07:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,0.0,0.0,0,07:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,10.634091070527052,5.292640788007673,1,08:00,49.77050462428809,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,0.0,0.0,0,08:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,0.0,0.0,0,08:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,9.277147088097912,6.180083945219925,1,08:45,66.61621171392922,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,25.146709563549305,20.24510983131972,1,09:00,80.50798765602892,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,24.23428255175857,23.738998875798632,1,09:15,97.95626846017771,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,Pompa,31.09990582620706,17.608369644861735,1,09:30,56.61872335968179,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,0.0,0.0,0,09:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,8.846765047430948,8.477974232671093,1,10:00,95.83134837669336,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,Pompa,0.0,0.0,0,10:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,7.10755614780895,5.650852356739147,1,10:30,79.50485707356864,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,28.950692716734295,24.132219022125426,1,10:45,83.35627495426505,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,26.862855855909913,22.843733997811462,1,11:00,85.03836718010669,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,39.50557185276973,38.64937059749273,1,11:15,97.83270760269485,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,Pompa,0.0,0.0,0,11:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,16.781383849222557,10.05507760898889,1,11:45,59.91804787574011,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,16.42908565341424,12.000784497205222,1,12:00,73.04596707553995,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,21.038367859936542,11.432185625368254,1,12:15,54.33969831442398,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,46.66240088718207,26.272707370863618,1,12:30,56.30380535794634,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,49.31143984674581,31.357455977054627,1,12:45,63.59063145288382,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,44.85799497606338,27.328069031807434,1,13:00,60.921289608217954,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,0.0,0.0,0,13:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,33.01247815905025,28.050245495154552,1,13:30,84.96861507946105,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,43.157732216679655,36.19275477213293,1,13:45,83.86157685585043,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,48.063877800663455,31.859272920543702,1,14:00,66.28527363662681,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,0.0,0.0,0,14:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,9.005470739670283,6.777283098141765,1,14:30,75.25739957476006,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,46.33171407883884,22.92753908433348,1,14:45,49.48562672496766,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,12.533420365615832,9.838406386286984,1,15:00,78.49737820393908,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,22.222405310569496,20.126604676536854,1,15:15,90.56897484883947,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,Pompa,27.329927792565066,18.18959376763972,1,15:30,66.5555866290583,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,18.12361452996276,8.976017391999157,1,15:45,49.52664037937691,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,38.514944958913716,34.960584630590134,1,16:00,90.77147758586896,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,Pompa,41.675728952617526,27.393256201196095,1,16:15,65.72951905014155,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,29.56241234502307,13.672427581822046,1,16:30,46.24936362517061,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,43.47706730439937,32.84901270014342,1,16:45,75.55480334070161,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,0.0,0.0,0,17:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,36.13196420863268,27.67916958733605,1,17:15,76.60577052360446,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,36.75769428935699,36.161752312967785,1,17:30,98.37872862291648,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,Pompa,0.0,0.0,0,17:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,44.17524609250722,37.30890638791708,1,18:00,84.45658980549567,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,0.0,0.0,0,18:15,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,20.86179797847044,17.29377678591387,1,18:30,82.8968663379887,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,36.54043164423855,24.99167814492406,1,18:45,68.39458928193744,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,40.87106454222823,32.071911696470345,1,19:00,78.47094773695814,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,25.865923122397497,17.38735365551916,1,19:15,67.22108301815572,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,20.679910121833696,17.691265777000705,1,19:30,85.54807865592412,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,19.002820461600358,9.165827858509198,1,19:45,48.23403913661604,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,0.0,0.0,0,20:00,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,19.083483609007367,12.265041066900139,1,20:15,64.27045144478268,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,22.387393330561267,13.120167775362097,1,20:30,58.60516042058196,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,0.0,0.0,0,20:45,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,39.221889033825434,22.77591101838824,1,21:00,58.069388240699006,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,21.028906837978727,9.641604003455797,1,21:15,45.84928773398159,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,18.5918007796246,17.220991785868666,1,21:30,92.62680893580652,"Pompa verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,Pompa,38.8730769619072,29.420424323649602,1,21:45,75.68329194130808,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,21.70313276726627,17.581267875415318,1,22:00,81.00797273807517,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,13.225871246052474,7.210217831468531,1,22:15,54.516014085805985,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,34.43765795469348,25.764334193075236,1,22:30,74.81442038529752,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,34.98086500892403,28.274066932968168,1,22:45,80.82723776486122,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,Pompa,22.868617006307097,12.611784653336663,1,23:00,55.14887345333725,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,19.06153219431379,11.29117476557409,1,23:15,59.23539960204426,"Pompa emiş hattında tıkanıklık olabilir, kontrol edilmelidir."
+Firma D,Pompa,0.0,0.0,0,23:30,0.0,Pompa ciddi enerji kaybına uğruyor! Acil bakım gereklidir.
+Firma D,Pompa,42.214675107169825,37.46385844491321,1,23:45,88.74605418566935,"Pompa motoru aşırı ısınıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,44.254013501335265,36.784044488921616,1,00:00,83.1202451000557,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,15.675669574979521,15.359133577923272,1,00:15,97.98071785359981,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,40.75080732715869,30.261449594683874,1,00:30,74.25975478654112,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,17.512900480472076,12.156860745505499,1,00:45,69.4166038290523,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,15.097101191877728,7.391721671465811,1,01:00,48.96119842822921,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,39.93286675178791,20.297914252564826,1,01:15,50.830095366634374,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,6.21074067567573,2.698961198810152,1,01:30,43.456349890450134,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,24.42846309276222,17.88169714428358,1,01:45,73.20025445883107,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,20.31917598312654,17.27004996389539,1,02:00,84.99385003721012,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,35.66549473721569,14.900366548690222,1,02:15,41.77810137915237,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,10.909539095530228,5.961545135740028,1,02:30,54.6452520453641,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,35.70179405789598,15.125973993139185,1,02:45,42.36754592391094,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,8.921177850961936,5.266117796385791,1,03:00,59.02940042628973,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,12.361751479835966,8.379699084256018,1,03:15,67.78731232321466,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,45.975657877286075,40.658259791104996,1,03:30,88.43431865537677,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,15.608513937049853,11.250755443470053,1,03:45,72.08088796182057,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,43.1467750517824,36.00694719640129,1,04:00,83.45223287994925,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,0.0,0.0,0,04:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,35.60922257627605,27.509311722693727,1,04:30,77.25333419949827,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,0.0,0.0,0,04:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,0.0,0.0,0,05:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,0.0,0.0,0,05:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,22.447110608569307,16.014846378856095,1,05:30,71.34480093283071,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,10.228265520658386,6.414849367676696,1,05:45,62.7168834708133,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,0.0,0.0,0,06:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,13.902997924747972,9.236373352779921,1,06:15,66.43440071539358,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,31.71691900085342,30.778810857019902,1,06:30,97.04224693511915,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,16.98230826281806,8.669298563607471,1,06:45,51.04900010906339,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,17.320322393761188,8.899573599739096,1,07:00,51.38226297072125,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,31.163851970066837,28.50504073377707,1,07:15,91.46828434802097,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,16.34189538089064,13.041489376507082,1,07:30,79.80401950043762,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,35.67256711887996,28.55859053127902,1,07:45,80.0575703904533,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,26.677240414483766,22.98540816406484,1,08:00,86.16111639337878,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,0.0,0.0,0,08:15,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,9.273683008168849,8.35440881307366,1,08:30,90.08728037948424,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,26.119501093902127,20.361443156728146,1,08:45,77.9549467025683,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,40.221620363696175,32.112332519196464,1,09:00,79.83848544346783,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,26.713597410539467,23.075283644456306,1,09:15,86.38029273942821,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,21.530890665560012,20.165449558480358,1,09:30,93.65822283764712,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,28.36085268401871,22.163365769496245,1,09:45,78.1477412418748,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,18.271717254344928,7.860757420087109,1,10:00,43.02144845317075,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,27.94540061797388,21.4883518732745,1,10:15,76.89405554434477,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,9.515724575834234,3.870205376842495,1,10:30,40.67168344354059,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,0.0,0.0,0,10:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,27.04226697798081,16.45728249572143,1,11:00,60.85762894479885,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,35.60791049161012,22.545014074159603,1,11:15,63.3146224052423,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,12.06857995874946,5.39422690584226,1,11:30,44.69645081923297,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,40.629610065837724,19.957642154205224,1,11:45,49.12092959264222,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,42.019324620175205,33.94556990711318,1,12:00,80.7856152233692,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,47.90489991305258,36.740346532459654,1,12:15,76.69433940816785,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,41.56186033324637,39.011279000884564,1,12:30,93.86316851095923,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,0.0,0.0,0,12:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,33.343618929711354,30.764900799190006,1,13:00,92.26623200091954,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,10.760735485563913,7.390994646151249,1,13:15,68.68484645930246,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,7.95157766678539,5.012583015446245,1,13:30,63.03884871029246,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,49.82597534120101,21.92370824511437,1,13:45,44.000560139533675,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,30.010027851433875,16.673382915732102,1,14:00,55.55937168160759,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,36.28203854185324,24.391874288965816,1,14:15,67.22851104639147,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,0.0,0.0,0,14:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,38.71861322324677,26.492837346085004,1,14:45,68.42403469703461,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,31.892577227904155,27.250296870112866,1,15:00,85.44400998195417,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,39.40556780481878,37.70175733759942,1,15:15,95.67621896565844,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,0.0,0.0,0,15:30,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,49.935593636844246,47.78263717268372,1,15:45,95.68853335394816,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,0.0,0.0,0,16:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,22.280652290668446,20.906887042262802,1,16:15,93.83426826789535,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,43.11934358264196,37.87279574133558,1,16:30,87.83249603220207,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,45.82459893846864,45.13758779409159,1,16:45,98.5007808899767,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,0.0,0.0,0,17:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,18.470400712388667,13.197110365287289,1,17:15,71.45004903134333,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,17.953244408115175,17.894730053547498,1,17:30,99.67407364798517,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,0.0,0.0,0,17:45,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,8.956746656838014,8.300736436878683,1,18:00,92.67579797561315,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,23.932661028516875,21.561574791085665,1,18:15,90.09267613573789,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,13.858441348445592,10.446766289892015,1,18:30,75.38197137200973,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,7.202500367361337,6.816104215048089,1,18:45,94.63524980763304,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,0.0,0.0,0,19:00,0.0,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,46.731891314077025,43.17998005177673,1,19:15,92.39938474043666,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,46.58476233868256,39.79297440171019,1,19:30,85.42058047308599,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,13.896924201755622,11.234245085213661,1,19:45,80.83979535410015,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,37.113945317319214,31.132387018105458,1,20:00,83.8832593838455,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,9.705947804538695,8.193209178176884,1,20:15,84.41431319407648,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,46.85135770644771,28.591956382827988,1,20:30,61.026953715992626,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,21.654003800079238,16.798381342970256,1,20:45,77.57632952345185,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,37.12405805518581,18.661506070936927,1,21:00,50.267958430611614,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,27.619314158498632,16.117853060111536,1,21:15,58.357180658492105,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,49.36411632820342,25.73152821246468,1,21:30,52.12597758538903,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,33.970723440386685,30.456664062377712,1,21:45,89.65562395462199,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,41.76238496317516,20.42268836052832,1,22:00,48.90211222021071,LPG kompresörü aşırı enerji tüketiyor! Hemen bakım yapılmalıdır.
+Firma D,LPG Kompresörü,12.074900600102914,6.253480014797059,1,22:15,51.789080688115654,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,42.408727627238896,27.540415069985134,1,22:30,64.94044176957593,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,30.710792817492074,20.06997534992417,1,22:45,65.35153771247752,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,LPG Kompresörü,45.63827291616291,40.233658867287836,1,23:00,88.1577156550089,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,16.672168096667484,15.00002418522263,1,23:15,89.97044714430939,"Basınç düşüşü yaşanıyor olabilir, bakım önerilir."
+Firma D,LPG Kompresörü,46.20648939231899,43.56894497163122,1,23:30,94.29183117918018,"LPG kompresörü verimli çalışıyor, mevcut ayarlar korunabilir."
+Firma D,LPG Kompresörü,8.415528719870276,4.730559844502431,1,23:45,56.21227140884088,"Kompresör valflerinde aşınma olabilir, mekanik kontrol gereklidir."
+Firma D,Hava Kompresörü,36.99230002347677,23.697642896906565,1,00:00,64.0610150811577,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,48.219398851568435,30.057419830784273,1,00:15,62.33470459328755,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,32.18496432448226,19.714113675068656,1,00:30,61.25255717643485,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,48.75075286215823,29.21495649074471,1,00:45,59.92719040329369,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,0.0,0.0,0,01:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,36.52920369158878,24.575424820233604,1,01:15,67.27610332741072,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,18.017140403838436,7.707376538421329,1,01:30,42.77802340253352,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,41.3709766423178,21.637634281297554,1,01:45,52.30148291728921,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,47.72838132205673,21.542713877648573,1,02:00,45.13606638424386,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,20.786653716666233,17.54048536542266,1,02:15,84.38340102504873,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,16.215528384927616,15.443172387640448,1,02:30,95.23693598535417,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,13.998568281087392,12.158508894955725,1,02:45,86.8553744269858,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,0.0,0.0,0,03:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,0.0,0.0,0,03:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,39.32648178859631,34.52790123344727,1,03:30,87.79809345533546,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,17.166779639814045,13.454602758296685,1,03:45,78.37581095927919,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,0.0,0.0,0,04:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,30.19176716269016,22.090817765189062,1,04:15,73.16834965688281,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,39.38301097047543,16.03233243149667,1,04:30,40.708752419960355,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,0.0,0.0,0,04:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,10.088686465714986,4.445146669926066,1,05:00,44.06070785361688,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,45.37311288697164,26.99182577876243,1,05:15,59.488591505725886,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,26.459962152332576,21.966674260202577,1,05:30,83.01853998784388,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,22.83804567196998,11.146605535608977,1,05:45,48.8071777056197,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,0.0,0.0,0,06:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,0.0,0.0,0,06:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,16.988365958858004,13.552393879119661,1,06:30,79.77455814138044,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,34.562762829092506,30.579344805926414,1,06:45,88.47482753950118,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,19.25830567519357,17.092688516145923,1,07:00,88.7548925872687,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,21.20856426284117,16.531657922269858,1,07:15,77.94802947238836,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,21.686211606120455,12.39102059871067,1,07:30,57.13778332409879,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,38.159631573769786,36.0307519101938,1,07:45,94.42112102298351,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,9.415135821112859,6.5601155454419,1,08:00,69.6762709543844,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,0.0,0.0,0,08:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,42.06152268639471,28.606282817853284,1,08:30,68.01057353804816,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,0.0,0.0,0,08:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,30.340745748500566,29.021701398288254,1,09:00,95.65256450468921,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,14.074978731892404,6.054966548745946,1,09:15,43.019365528603146,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,34.666980167835355,26.326871817347183,1,09:30,75.94221270468122,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,0.0,0.0,0,09:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,0.0,0.0,0,10:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,14.419674994544378,10.487735049384474,1,10:15,72.73211811883738,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,25.9018927646551,25.350275391604605,1,10:30,97.87035882642826,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,48.0888893887206,44.52363636128418,1,10:45,92.58611901261197,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,31.45035907442649,26.49071842313661,1,11:00,84.23025746843457,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,33.4196076948762,14.158905747714204,1,11:15,42.36706150768194,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,11.61187567998348,10.848358203343125,1,11:30,93.42468436898179,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,0.0,0.0,0,11:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,21.72562006793855,13.12699052506025,1,12:00,60.421707108982936,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,5.391906473421943,4.776125777617182,1,12:15,88.57953677720303,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,42.21047563725037,22.71998451570412,1,12:30,53.825464349077215,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,29.212729974642652,16.245599514403704,1,12:45,55.61137055148654,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,5.112015714190628,3.889549431327029,1,13:00,76.08641382947805,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,20.520143799236486,8.822070650754048,1,13:15,42.99224575162236,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,9.67702008812325,6.945480392687534,1,13:30,71.77292523358328,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,16.131352665448023,7.842491083408402,1,13:45,48.616450498948836,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,43.6831348777111,34.61459410474885,1,14:00,79.24017862191162,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,19.981468448960378,18.54265132991439,1,14:15,92.79924234436909,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,9.745939221471993,9.148999214135515,1,14:30,93.87498737914028,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,0.0,0.0,0,14:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,13.33223730345982,11.660113185582755,1,15:00,87.45803813855657,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,24.03294415403425,11.721230432351167,1,15:15,48.77151279188406,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,0.0,0.0,0,15:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,7.921071851937226,3.9438138435042966,1,15:45,49.78889116552798,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,13.654601152313418,8.091750627995765,1,16:00,59.26024889145025,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,6.976809101799475,3.2273309281819245,1,16:15,46.25797955901536,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,32.91179244995206,18.627026829440066,1,16:30,56.596816650948455,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,34.12423917501218,33.27960441863491,1,16:45,97.52482465016902,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,14.82021226180135,8.642185945940161,1,17:00,58.313509909808346,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,0.0,0.0,0,17:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,27.02217582684611,20.65314858280844,1,17:30,76.43036858005291,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,15.78400114446907,12.012209165232942,1,17:45,76.10370181354293,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,21.822664389412008,16.69639967213415,1,18:00,76.50944620783777,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,0.0,0.0,0,18:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,49.26674713817819,46.81393667900552,1,18:30,95.02136714588994,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,10.26678554565158,6.67997935355402,1,18:45,65.06398057942562,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,24.308827633561503,18.561363185835,1,19:00,76.3564720834526,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,0.0,0.0,0,19:15,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,26.768708661013942,24.639154273365314,1,19:30,92.04461292990902,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,9.621246016015633,8.510796351045352,1,19:45,88.4583591031576,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,0.0,0.0,0,20:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,20.12857681678765,12.260783992074895,1,20:15,60.912324322150525,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,40.442390802900164,23.373247560371375,1,20:30,57.79393130906409,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,0.0,0.0,0,20:45,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,17.42978577804253,13.137045850684226,1,21:00,75.37124103518154,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,18.901013520593168,8.664318091743816,1,21:15,45.840494650214424,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,18.79934252393076,15.94546113083112,1,21:30,84.81924892071746,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,22.0601293134542,19.924840948397765,1,21:45,90.32059905580812,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,0.0,0.0,0,22:00,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,9.358090749419208,6.823558163931802,1,22:15,72.91613585127172,"Sıkıştırılmış hava hattında kaçak olabilir, bakım önerilir."
+Firma D,Hava Kompresörü,28.14668877120648,17.28106302538478,1,22:30,61.39643339881234,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,14.617299604250148,8.72444789606184,1,22:45,59.685770506647515,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,29.984963966791792,20.37865810032606,1,23:00,67.96292342687265,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
+Firma D,Hava Kompresörü,23.732968938343305,22.382707007937086,1,23:15,94.3106067600977,"Hava kompresörü verimli çalışıyor, herhangi bir aksiyon gerekmez."
+Firma D,Hava Kompresörü,0.0,0.0,0,23:30,0.0,"Hava kompresörü aşırı enerji tüketiyor, acil bakım gereklidir."
+Firma D,Hava Kompresörü,19.453887890730655,12.270056792931067,1,23:45,63.07251723588618,"Filtreler kirlenmiş olabilir, düzenli bakım yapılmalıdır."
