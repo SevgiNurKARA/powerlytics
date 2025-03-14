@@ -27,6 +27,7 @@ os.makedirs('models', exist_ok=True)
 # Global değişkenler
 model = None
 le_firma = None
+
 le_makine = None
 le_durum = None
 le_oneri = None
