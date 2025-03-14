@@ -4,6 +4,9 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
 
+const app = createApp(App)
+
+
 /* import the fontawesome core */
 import { library } from '@fortawesome/fontawesome-svg-core'
 
@@ -16,7 +19,7 @@ import { faUser, faGauge, faChartLine, faFileLines, faGears } from '@fortawesome
 /* add icons to the library */
 library.add(faUser, faGauge, faChartLine, faFileLines, faGears)
 
-const app = createApp(App)
+
 
 // Router'ı kullan
 app.use(router)

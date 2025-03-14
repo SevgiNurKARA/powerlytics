@@ -36,14 +36,40 @@ ChartJS.register(
 const props = defineProps({
   data: {
     type: Object,
-    required: true
+    required: true,
+    default: () => ({
+      labels: [],
+      datasets: []
+    })
+  },
+  compareData: {
+    type: Object,
+    required: false,
+    default: null
+  },
+  compareLabel: {
+    type: String,
+    default: 'Karşılaştırma Verisi'
   }
 })
 
-const chartData = computed(() => ({
-  labels: props.data.labels,
-  datasets: props.data.datasets
-}))
+const chartData = computed(() => {
+  const result = {
+    labels: props.data.labels,
+    datasets: [...props.data.datasets]
+  }
+  
+  if (props.compareData && props.compareData.datasets && props.compareData.datasets.length > 0) {
+    const compareDataset = { ...props.compareData.datasets[0] }
+    compareDataset.label = props.compareLabel
+    compareDataset.borderColor = '#10B981'
+    compareDataset.backgroundColor = 'rgba(16, 185, 129, 0.2)'
+    
+    result.datasets.push(compareDataset)
+  }
+  
+  return result
+})
 
 const chartOptions = {
   responsive: true,
@@ -52,25 +78,25 @@ const chartOptions = {
     y: {
       beginAtZero: true,
       grid: {
-        color: 'rgba(255, 255, 255, 0.1)'
+        color: ' #e5e4d7'
       },
       ticks: {
-        color: '#9CA3AF'
+        color: '#000000'
       }
     },
     x: {
       grid: {
-        color: 'rgba(255, 255, 255, 0.1)'
+        color: '#e5e4d7'
       },
       ticks: {
-        color: '#9CA3AF'
+        color: '#000000'
       }
     }
   },
   plugins: {
     legend: {
       labels: {
-        color: '#9CA3AF'
+        color: '#000000'
       }
     }
   }

@@ -135,7 +135,7 @@ const resetSettings = () => {
 }
 
 .settings-section {
-  background-color: #1f2937;
+  background-color: #d2d2d2;
   padding: 20px;
   border-radius: 8px;
   display: flex;
@@ -144,7 +144,7 @@ const resetSettings = () => {
 }
 
 .settings-section h3 {
-  color: #9ca3af;
+  color: #000000;
   margin-bottom: 5px;
 }
 
@@ -155,16 +155,16 @@ const resetSettings = () => {
 }
 
 .form-group label {
-  color: #9ca3af;
+  color: #000000;
   font-size: 0.875rem;
 }
 
 .form-group input, .form-group select {
   padding: 10px;
-  background-color: #374151;
+  background-color: #ffffff;
   border: 1px solid #4b5563;
   border-radius: 6px;
-  color: #fff;
+  color: #000000;
   font-size: 1rem;
 }
 
@@ -180,7 +180,7 @@ const resetSettings = () => {
 }
 
 .toggle-group label {
-  color: #9ca3af;
+  color: #000000;
   font-size: 0.875rem;
 }
 

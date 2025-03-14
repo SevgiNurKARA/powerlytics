@@ -1,17 +1,28 @@
 <template>
-  <div class="container">
+  <div class="container" style="background-color: #ffffff;">
     <!-- Header -->
     <div class="header">
       <h1>Powerlytics Enerji İzleme Sistemi</h1>
+      <nav class="navigation">
+        <a 
+          v-for="item in navItems" 
+          :key="item.path"
+          :href="'#' + item.path"
+          class="nav-item"
+          :class="{ active: currentPath === item.path }"
+          @click.prevent="navigateTo(item.path)"
+        >
+          <font-awesome-icon :icon="item.icon.split('fa-')[1]" />
+          {{ item.name }}
+        </a>
+      </nav>
       <div class="user-info">
-        <span>{{ selectedFirm?.name }}</span>
+        <span>{{ selectedFirm && selectedFirm.name }}</span>
         <button @click="toggleDropdown" class="user-button">
           <font-awesome-icon icon="user" />
         </button>
         <div v-if="dropdownOpen" class="user-dropdown">
-          <div class="dropdown-header">
-            Firma Seçin
-          </div>
+          <div class="dropdown-header">Firma Seçin</div>
           <div 
             v-for="firm in firms" 
             :key="firm.name"
@@ -24,24 +35,9 @@
       </div>
     </div>
 
-    <!-- Navigation -->
-    <nav class="navigation">
-      <a 
-        v-for="item in navItems" 
-        :key="item.path"
-        :href="'#' + item.path"
-        class="nav-item"
-        :class="{ active: currentPath === item.path }"
-        @click.prevent="navigateTo(item.path)"
-      >
-        <font-awesome-icon :icon="item.icon.split('fa-')[1]" />
-        {{ item.name }}
-      </a>
-    </nav>
-
     <!-- Main Content -->
     <main class="main-content">
-      <router-view :selectedFirm="selectedFirm"></router-view>
+      <router-view :selectedFirm="selectedFirm" :energyData="energyData"></router-view>
     </main>
   </div>
 </template>
@@ -49,10 +45,10 @@
 <script setup>
 import { ref, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
+import router from '@/router'
 
-const route = useRoute()
-const router = useRouter()
-
+const route = useRouter()
+ 
 const currentPath = computed(() => route.path)
 
 const navItems = [
@@ -64,41 +60,14 @@ const navItems = [
 
 const dropdownOpen = ref(false)
 const selectedFirm = ref(null)
+const energyData = ref([])
 
 // Firmaların verileri
 const firms = ref([
-  {
-    name: "Firma A",
-    efficiency: 75,
-    dailyChange: -5.2,
-    currentUsage: 42.5,
-    activePower: 3.2,
-    reactivePower: 0.8
-  },
-  {
-    name: "Firma B",
-    efficiency: 65,
-    dailyChange: -2.1,
-    currentUsage: 38.6,
-    activePower: 2.8,
-    reactivePower: 0.6
-  },
-  {
-    name: "Firma C",
-    efficiency: 65,
-    dailyChange: -2.1,
-    currentUsage: 38.6,
-    activePower: 2.8,
-    reactivePower: 0.6
-  },
-  {
-    name: "Firma D",
-    efficiency: 65,
-    dailyChange: -2.1,
-    currentUsage: 38.6,
-    activePower: 2.8,
-    reactivePower: 0.6
-  }
+  { name: "Firma A", id: 1 },
+  { name: "Firma B", id: 2 },
+  { name: "Firma C", id: 3 },
+  { name: "Firma D", id: 4 }
 ])
 
 // Başlangıçta ilk firmayı seç
@@ -111,10 +80,24 @@ const toggleDropdown = () => {
 const selectFirm = (firm) => {
   selectedFirm.value = firm
   dropdownOpen.value = false
+  fetchEnergyData(firm.id)
+}
+
+const fetchEnergyData = async (firmId) => {
+  try {
+    const response = await axios.get(`/api/energy-data?firmId=${firmId}`)
+    energyData.value = response.data
+  } catch (error) {
+    console.error("Enerji verileri alınırken hata oluştu:", error)
+  }
+}
+
+const onMounted = () => {
+  fetchEnergyData(selectedFirm.value.id)
 }
 
 const navigateTo = (path) => {
-  router.push(path)
+  route.push(path)
 }
 </script>
 
@@ -132,7 +115,7 @@ html, body, #app {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
-  background-color: #111827;
+  background-color: #ffffff;
 }
 
 body {
@@ -201,7 +184,7 @@ body {
   padding: 0.75rem 1rem;
   color: #9CA3AF;
   font-size: 0.875rem;
-  border-bottom: 1px solid #374151;
+  
 }
 
 .dropdown-item {
@@ -218,7 +201,7 @@ body {
   display: flex;
   padding: 1rem 2rem;
   background-color: #1F2937;
-  border-bottom: 1px solid #374151;
+  
   gap: 1rem;
 }
 

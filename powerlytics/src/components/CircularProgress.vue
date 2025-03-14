@@ -9,6 +9,7 @@
         fill="none"
         :stroke="backgroundColor"
         :stroke-width="strokeWidth"
+        class="background-circle"
       />
       
       <!-- Progress circle -->
@@ -21,7 +22,7 @@
         :stroke-width="strokeWidth"
         :stroke-dasharray="circumference"
         :stroke-dashoffset="strokeDashoffset"
-        transform="rotate(-90 50 50)"
+        class="progress-circle"
       />
       
       <!-- Value text -->
@@ -32,7 +33,7 @@
         :fill="textColor"
         class="progress-value"
       >
-        {{ value }}
+        {{ displayValue }}
       </text>
       
       <!-- Unit text -->
@@ -54,7 +55,7 @@ import { computed } from 'vue'
 
 const props = defineProps({
   value: {
-    type: Number,
+    type: [Number, String],
     required: true
   },
   max: {
@@ -67,15 +68,15 @@ const props = defineProps({
   },
   color: {
     type: String,
-    default: '#10B981'
+    default: '#3B82F6'
   },
   backgroundColor: {
     type: String,
-    default: '#374151'
+    default: '#E5E7EB'
   },
   textColor: {
     type: String,
-    default: '#ffffff'
+    default: '#f59e0b'
   },
   unit: {
     type: String,
@@ -87,9 +88,21 @@ const props = defineProps({
   }
 })
 
-const radius = computed(() => 45 - props.strokeWidth / 2)
+// Ensure value is treated as a number
+const numericValue = computed(() => Number(props.value) || 0)
+
+// Format display value
+const displayValue = computed(() => {
+  return numericValue.value.toLocaleString()
+})
+
+const radius = computed(() => 40 - props.strokeWidth / 2)
 const circumference = computed(() => 2 * Math.PI * radius.value)
-const progress = computed(() => props.value / props.max)
+const progress = computed(() => {
+  // Ensure progress is between 0 and 1
+  const ratio = numericValue.value / props.max
+  return Math.min(Math.max(ratio, 0), 1)
+})
 const strokeDashoffset = computed(() => 
   circumference.value * (1 - progress.value)
 )
@@ -100,6 +113,9 @@ const strokeDashoffset = computed(() =>
   display: inline-flex;
   justify-content: center;
   align-items: center;
+  position: relative;
+  width: 100%;
+  height: 100%;
 }
 
 .progress-value {
@@ -112,8 +128,22 @@ const strokeDashoffset = computed(() =>
   opacity: 0.8;
 }
 
+svg {
+  overflow: visible;
+  position: relative;
+}
+
+.background-circle {
+  transform-origin: center;
+}
+
+.progress-circle {
+  transform-origin: center;
+  transform: rotate(-90deg);
+  transition: stroke-dashoffset 0.35s;
+}
+
 circle {
   transition: stroke-dashoffset 0.35s;
-  transform-origin: 50% 50%;
 }
 </style>
